@@ -1,0 +1,1 @@
+export const SIZE_ARR = ['XS','S','M','ML','L','XL','XXL'];
